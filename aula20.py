@@ -26,7 +26,7 @@
      #   print(f'{valor} ', end='')
 #print('Fim')
  #   tam = len(num)
-  #  print(f'Recebi os valores {num} e são ao todo {tam} números ')
+  #  print(f'Recebi os valores {num} e são ao
 
 #contador(2, 1, 7)
 #contador(8,0)
